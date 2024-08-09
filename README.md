@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development, particularly in Back-End and Full-Stack Development.
 - 🌱 I’m currently deepening my knowledge in Back-End Development and exploring new technologies.
 - 💞️ I’m looking to collaborate on exciting and challenging projects, especially those involving Laravel, Node.js, or modern web development practices.
-- 📫 How to reach me: [ekoprasetyo.webdev@gmail.com or linkedin.com/in/eko-webdev]
+- 📫 How to reach me: [ekoprasetyo.webdev@gmail.com or https://linkedin.com/in/eko-webdev]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love traveling, whether it's exploring the beauty of nature or diving into the latest technological trends!
 
